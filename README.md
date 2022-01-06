@@ -1,5 +1,5 @@
 # persian_mnist
-<<<<<<< HEAD
+
 ##install
 =======
 
