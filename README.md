@@ -4,7 +4,7 @@
 =======
 
 ## install
->>>>>>> 36adc8563223a9e6a466210292c43a5783f49e13
+
 pip install requirements.txt
 
 ## Train
@@ -20,10 +20,9 @@ python test.py --device cuda  --weight weight/mnist_persian.pth
 ## Inference
 To inference the model, please run fallowing:
 ```
-<<<<<<< HEAD
+
 python inference.py --device cuda --weight weight/mnist_persian.pth  --image_path input/5.jpg
-=======
-python inference.py --device cuda --weight weight/mnist_persian.pth  --image_path --
->>>>>>> 36adc8563223a9e6a466210292c43a5783f49e13
+
+
 ```
 
