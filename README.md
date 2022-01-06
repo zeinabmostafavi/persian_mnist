@@ -1,6 +1,6 @@
-# persian_mnist
+# Persian_mnist
 
-##install
+## install
 =======
 
 ## install
