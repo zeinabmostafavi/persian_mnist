@@ -1,6 +1,6 @@
 # persian_mnist
 
-##install
+## install
 pip install requirements.txt
 
 ## Train
