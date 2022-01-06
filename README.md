@@ -1,9 +1,6 @@
 # Persian_mnist
 
 ## install
-=======
-
-## install
 
 pip install requirements.txt
 
