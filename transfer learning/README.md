@@ -1,10 +1,7 @@
-# persian_mnist
-<<<<<<< HEAD
-##install
-=======
+![photo_2022-01-20_18-25-13](https://user-images.githubusercontent.com/80622132/150362854-1cec00b7-4ec8-4f18-91d2-6cde0829cb8b.jpg)
 
 ## install
->>>>>>> 36adc8563223a9e6a466210292c43a5783f49e13
+
 pip install requirements.txt
 
 ## Train
@@ -24,6 +21,7 @@ To inference the model, please run fallowing:
 python inference.py --device cuda --weight weight/mnist_persian.pth  --image_path input/5.jpg
 =======
 python inference.py --device cuda --weight weight/mnist_persian.pth  --image_path --
->>>>>>> 36adc8563223a9e6a466210292c43a5783f49e13
+
 ```
+
 
